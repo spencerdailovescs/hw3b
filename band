@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="rules.css"?> 
+
+<setlist>
+	<header>CS Rules: The Throwback Cover Band</header>
+
+	<song>
+		<name>Break Your Heart</name>
+		<artist>Taio Cruz / Ludacris</artist>
+		<genre>Pop</genre>
+		<year>2009</year>
+	</song>
+	<song>
+		<name>California Gurls</name>
+		<artist>Katy Perry / Snoop Dogg</artist>
+		<genre>Pop</genre>
+		<year>2010</year>
+	</song>
+	<song>
+		<name>Dynamite</name>
+		<artist>Taio Cruz</artist>
+		<genre>Pop</genre>
+		<year>2009</year>
+	</song>
+	<song>
+		<name>Hey, Soul Sister</name>
+		<artist>Train</artist>
+		<genre>Pop</genre>
+		<year>2009</year>
+	</song>
+	<song>
+		<name>Party in the U.S.A.</name>
+		<artist>Miley Cyrus</artist>
+		<genre>Pop</genre>
+		<year>2009</year>
+	</song>
+	<song>
+		<name>Jar of Hearts</name>
+		<artist>Christina Perri</artist>
+		<genre>Pop</genre>
+		<year>2011</year>
+	</song>
+	<song>
+		<name>A Thousand Years</name>
+		<artist>Cristina Perri</artist>
+		<genre>Pop</genre>
+		<year>2011</year>
+	</song>
+	<song>
+		<name>Replay</name>
+		<artist>Iyaz</artist>
+		<genre>Pop</genre>
+		<year>2010</year>
+	</song>
+	<song>
+		<name>Tik Tok</name>
+		<artist>Kesha</artist>
+		<genre>Pop</genre>
+		<year>2009</year>
+	</song>
+	<song>
+		<name>Gas Pedal</name>
+		<artist>Sage the Gemini</artist>
+		<genre>Hip-Hop</genre>
+		<year>2014</year>
+	</song>
+
+</setlist>
