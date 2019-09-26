@@ -1,0 +1,14 @@
+header {
+	background-color: gray;
+	color: white;
+	font-size: 40px;
+}
+setlist {
+	background-color: white;
+	color: black;
+	width: 100%
+}
+name {
+	font-size: 20px;
+	font-weight: bold;
+}
